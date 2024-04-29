@@ -1,0 +1,8 @@
+{
+	"dataset": "german-credit",
+	"model_version": "0.1",
+    "model_type": "random forest",
+	"RF_seed": 42,
+    "cv_folds": 10,
+	"n_iter_search": 50
+}
